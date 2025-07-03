@@ -1,0 +1,4 @@
+BALA, 3
+CASA, 2
+GATA, 1
+LEU, 1
